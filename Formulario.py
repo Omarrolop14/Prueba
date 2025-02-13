@@ -1,4 +1,4 @@
-pip install openpyxl
+conda install -c conda-forge openpyxl
 import streamlit as st
 import openpyxl
 import os
