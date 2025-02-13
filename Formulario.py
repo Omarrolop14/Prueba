@@ -4,7 +4,7 @@ import openpyxl
 import os
 
 # Archivo donde se guardarán los datos
-archivo = "empleados.xlsx"
+archivo = "empleados1.xlsx"
 
 def guardar_datos(nombre, edad, puesto, salario):
     """Guarda los datos ingresados en un archivo Excel."""
